@@ -1,6 +1,8 @@
-# Carpool
+### Carpool
 
 Carpool is a web application that facilitates carpooling among students and staff within a university setting. Users can register their carpool details, including their availability, campus, and preferred locations. Additionally, users can search for potential carpoolers based on specific criteria, fostering a sense of community and environmental sustainability.
+
+# Try the website here : https://vit-carpool.vercel.app/
 
 ## Table of Contents
 
